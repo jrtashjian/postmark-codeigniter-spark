@@ -1,3 +1,7 @@
+#THIS PROJECT IS NO LONGER BEING MAINTAINED
+
+* * *
+
 #Postmark API Wrapper for CodeIgniter Sparks
 
 A Sparks library for CodeIgniter 2.0+ which extends the Core CI_Email class.
