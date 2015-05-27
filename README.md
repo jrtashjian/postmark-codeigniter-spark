@@ -27,7 +27,3 @@ In order to use the library, you will need to load it with Sparks.
 ###Sending an Email
 
 The great thing about extending the Core CI_Email class is the ability to not have to change the way you use the class! The only difference is that you will be calling functions as $this->postmark->function_name() instead of $this->email->function_name().
-
-##Contact
-
-If you'd like to request an update, report bugs or contact me for any other reason, email me at [jrtashjian@gmail.com](mailto:jrtashjian@gmail.com)
